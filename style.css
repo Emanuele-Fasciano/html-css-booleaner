@@ -1,4 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 header {
+    height: 100px;
     background: url('img/pattern.png');
     background-size: contain;
     background-size: 200px;
@@ -8,4 +14,19 @@ header {
 
 .img-logo{
  width: 200px;
+ padding-top: 40px;
+}
+
+.title{
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: justify;
+    margin-top: 5px;
+}
+
+.the-booleaner{
+    text-decoration: none;
+    color: rgb(9, 184, 243);
+    font-size: 20px;
+    font-weight: 600;
 }
