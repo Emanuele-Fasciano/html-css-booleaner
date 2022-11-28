@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    margin-left: 5px;
     padding: 0;
 }
 
@@ -29,4 +30,18 @@ header {
     color: rgb(9, 184, 243);
     font-size: 20px;
     font-weight: 600;
+}
+
+.highlighted-text{
+    background: yellow;
+}
+
+p{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+ul{
+    margin-left: 15px;
+    margin-bottom: 20px;
 }
