@@ -45,3 +45,17 @@ ul{
     margin-left: 15px;
     margin-bottom: 20px;
 }
+
+th, tr{
+    width: 500px;
+    text-align: left;
+}
+
+th{
+    background-color: rgb(19, 118, 163);
+    color: white;
+}
+
+.special-row{
+    background-color: lightblue;
+}
